@@ -1,0 +1,169 @@
+<style>
+			*{
+			}
+			body{
+				background-color:grey;
+			}
+			.main-title{
+				font-size: 110px;
+				font-style:italic;
+				text-align:center;
+				font-family:cursive;
+				margin:0;
+  				padding:0;
+			}
+			.second-title{
+				font-style:italic;
+				font-size: 20px;
+				font-family:sans-serif;
+				text-align:center;
+				margin:0;
+  				padding:3px;
+			}
+			#general-info{
+				text-align: left;
+				font-size: 30px;
+				margin-left: 30px;
+
+			}
+			
+ 	 		.column {
+ 	 			font-style: italic;
+ 	 			font-family: monospace;
+ 	 			font-weight:bold;
+ 	 			text-align: center;
+ 	 			margin:0;
+				float: left;
+				border:3px solid black;
+				width: 20%;
+				padding-left: 50px;
+
+			}
+			.row:after {
+				float:center;
+				content: "";
+				display: table;
+				clear: both;
+			}
+			h2{
+				font-size:30px;
+			}
+
+
+			.img-1{
+				text-align: center;
+				font-weight:bold;
+				font-size:45px;
+				text-decoration:underline;
+			}
+			.more-info1{
+				margin-left:25px;
+				font-size:30px;
+			}
+			.more-info2{
+				margin-right:25px;
+				font-size:30px;
+				text-align: right;
+			}
+
+			.img-2{
+ 	 			text-align: center;
+ 	 			font-weight:bold;
+ 	 			font-size:45px;
+ 	 			text-decoration:underline;
+			}
+			.img-3{
+ 	 			text-align: center;
+ 	 			font-weight:bold;
+ 	 			font-size:45px;
+ 	 			text-decoration:underline;
+ 	 		}
+
+			.starry-night{
+				float:right;
+				clear:right;
+				margin-top:30px;
+				margin-left:25px;
+				margin-right:30px;
+				margin-bottom: 25px;
+ 	 			border: 5px ridge black;
+ 	 			padding:2px;
+ 	 			width:40%;
+			}
+			.the-bedroom{
+				float:left;
+				clear:left;
+				margin-top:30px;
+				margin-right:10px;
+				margin-left:30px;
+				margin-bottom: 25px;
+ 	 			border: 5px ridge black;
+ 	 			padding:2px;
+ 	 			width:40%;
+ 	 		}
+ 	 		.night-cafe{
+				float:right;
+				clear:right;
+				margin-top:30px;
+				margin-left:25px;
+				margin-right:30px;
+				margin-bottom: 25px;
+ 	 			border: 5px ridge black;
+ 	 			padding:2px;
+ 	 			width:40%;
+ 	 		}
+
+
+			#starry-night{
+				text-align: left;
+				font-size: 35px;
+				margin-left: 25px;
+				font-family: sans-serif;
+				font-weight:bold;
+				font-style:italic;
+			}
+			#starry-night2{
+				text-align: left;
+				font-size: 25px;
+				margin-left:25px;
+				font-family: serif;
+			}
+
+
+
+
+ 	 		#the-bedroom{
+				text-align: right;
+				font-size: 35px;
+				margin-right: 25px;
+				font-family: sans-serif;
+				font-weight:bold;
+				font-style:italic;
+ 	 		}
+ 	 		#the-bedroom2{
+ 	 			text-align: right;
+				font-size: 25px;
+				margin-right:10px;
+				font-family: serif;
+ 	 		}
+
+
+
+ 	 		#night-cafe{
+				text-align: left;
+				font-size: 35px;
+				margin-left: 25px;
+				font-family: sans-serif;
+				font-weight:bold;
+				font-style:italic;
+ 	 		}
+ 	 		#night-cafe2{
+ 	 			text-align: left;
+				font-size: 25px;
+				margin-left:10px;
+				margin-right:100px;
+				font-family: serif;
+ 	 		}
+
+
+	</style>
